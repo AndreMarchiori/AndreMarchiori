@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&count_private=false&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreMarchiori&show_icons=true&count_private=false&theme=tokyonight)
 
 
 <!--
