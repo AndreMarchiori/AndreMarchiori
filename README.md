@@ -22,7 +22,7 @@ Olá, seja bem-vindo!
 
 <div>
   <a>
-    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=AndreMarchiori&theme=algolia" />
+    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=AndreMarchiori&theme=algolia&text_color=#9acffc" />
   </a>
   <a>
     <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMarchiori&layout=donut-vertical&theme=algolia" />
