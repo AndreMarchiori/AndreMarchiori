@@ -25,7 +25,7 @@ Olá, seja bem-vindo!
     <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=AndreMarchiori&theme=algolia&locale=pt-br" />
   </a>
   <a>
-    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMarchiori&layout=donut-vertical&theme=algolia" />
+    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMarchiori&layout=donut-vertical&theme=algolia&locale=pt-br" />
   </a>
 </div>
 
