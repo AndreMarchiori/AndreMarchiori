@@ -1,6 +1,5 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreMarchiori&repo=github-readme-stats)](https://github.com/AndreMarchiori/github-readme-stats)
-
-___
+Olá
+__
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMarchiori&layout=donut-vertical&theme=tokyonight)](https://github.com/AndreMarchiori/github-readme-stats)
 
