@@ -2,6 +2,13 @@ Olá, seja bem-vindo!
 
 ##
 
+### Frameworks
+<div style="display: inline_block">
+  <img align="center" alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+</div>
+
+##
+
 ### Linguagens
 
 <div>
