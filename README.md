@@ -3,6 +3,7 @@ Olá, seja bem-vindo!
 ##
 
 ### Frameworks
+
 <div style="display: inline_block">
   <img align="center" alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
 </div>
@@ -15,8 +16,6 @@ Olá, seja bem-vindo!
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Lua" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/lua/lua-original.svg">
-  
-
 </div>
 
 ##
