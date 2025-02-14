@@ -7,7 +7,7 @@ ____
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
 <a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMarchiori&layout=donut-vertical&theme=algolia" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMarchiori&layout=donut-vertical&theme=algolia" />
 </a>
 </div>
 
