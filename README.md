@@ -1,13 +1,15 @@
 Olá
 ____
 
-
+<div>
+  
 <a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
 <a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMarchiori&layout=donut-vertical&theme=algolia" />
 </a>
+</div>
 
 <!--
 **AndreMarchiori/AndreMarchiori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
