@@ -10,12 +10,13 @@ Olá, seja bem-vindo!
 
 ##
 
-### Linguagens
+### Linguagens e Ferramentas
 
 <div>
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Lua" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/lua/lua-original.svg">
+  <img align="center" alt="GitHub" height="40" width="40" src="https://github.com/AndreMarchiori/devicon/blob/master/icons/github/github-original.svg">
 </div>
 <div>
   <img align="center" alt="SQL Server" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
